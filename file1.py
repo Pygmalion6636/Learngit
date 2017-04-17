@@ -1,5 +1,5 @@
-#! /usr/bin/pyenv python
 
 import this
+#! /usr/bin/pyenv python
 
 print(this)
